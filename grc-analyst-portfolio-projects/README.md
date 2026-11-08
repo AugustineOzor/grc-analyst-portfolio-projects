@@ -83,9 +83,6 @@ NovaCloud AI Solutions sells an AI document analysis service on AWS to businesse
 grc-analyst-portfolio-projects/
 ├── README.md
 ├── REPO_DESCRIPTION.txt
-├── assets/
-│   ├── banner.jpg
-│   └── social-banner.jpg
 ├── docs/company-profile.md
 └── projects/
     ├── 01-mini-compliance-program/
@@ -108,6 +105,4 @@ grc-analyst-portfolio-projects/
 
 NovaCloud AI Solutions is a fictional company. All people, systems, incidents, ratings and dates are examples created for skills practice and portfolio use. This is not legal advice or a compliance determination. Framework references are paraphrased pointers, so verify them against the source text before relying on them.
 
-## Author
 
-Augustine Ozor, AI Governance and Cybersecurity GRC. [GitHub](https://github.com/AugustineOzor) · [LinkedIn](https://www.linkedin.com/in/augustinetettehozor)
