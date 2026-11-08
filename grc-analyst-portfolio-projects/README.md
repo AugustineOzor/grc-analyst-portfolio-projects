@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="assets/banner.jpg" alt="7 Hands-On GRC Projects" width="100%">
+<img width="2800" height="680" alt="banner" src="https://github.com/user-attachments/assets/1c410ddd-2492-4a7a-8b0c-ab33d8b96f5e" />
+
 </p>
 
 # 7 Hands-On GRC Projects
